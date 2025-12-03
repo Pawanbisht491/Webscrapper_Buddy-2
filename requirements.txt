@@ -16,3 +16,4 @@ google-generativeai
 groq
 orjson
 streamlit-option-menu
+feedparser
