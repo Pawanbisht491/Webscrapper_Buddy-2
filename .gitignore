@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Env ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Streamlit Secrets (VERY IMPORTANT) ---
+.streamlit/secrets.toml
+
+# --- Environment Files ---
+.env
+*.env
+
+# --- Logs ---
+*.log
+
+# --- Cache / Temp ---
+.cache/
+tmp/
+temp/
