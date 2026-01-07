@@ -166,22 +166,13 @@ Webscrapper_Buddy/
 ## 📝 Future Improvements
 
 * Add login/session scraping
-* Add browser-based scraping (Playwright/Selenium)
+* Add browser-based scraping (Selenium)
 * Add image/PDF extraction
-* Add custom XPath/CSS selector extraction
+* Add custom CSS selector extraction
 
 ---
 
 ## ❤️ Contribution
 
 Pull requests are welcome!
-
 ---
-
-If you'd like, I can also generate:
-
-✅ A shorter GitHub-friendly README
-✅ A version with screenshots
-✅ A "Deploy to Streamlit Cloud" badge
-
-Just tell me!
