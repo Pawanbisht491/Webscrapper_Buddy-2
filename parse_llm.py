@@ -13,7 +13,7 @@ def parse_with_llm(provider, api_key, dom_chunks, parse_description):
 
     # 2. Configure Provider
     if provider == "gemini":
-        model = "gemini-2.0-flash" 
+        model = "gemini-flash-latest" 
         base_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     elif provider == "groq":
         headers["Authorization"] = f"Bearer {api_key}"
